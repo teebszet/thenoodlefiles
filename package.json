@@ -1,0 +1,22 @@
+{
+  "name": "thenoodlefiles",
+  "version": "1.0.0",
+  "description": "the noodle files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teebszet/thenoodlefiles.git"
+  },
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/teebszet/thenoodlefiles/issues"
+  },
+  "homepage": "https://github.com/teebszet/thenoodlefiles#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
