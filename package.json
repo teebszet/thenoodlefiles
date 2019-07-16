@@ -4,6 +4,8 @@
   "description": "the noodle files",
   "main": "index.html",
   "scripts": {
+    "start": "eleventy --input=templates --serve",
+    "dev": "eleventy --input=templates --serve --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
